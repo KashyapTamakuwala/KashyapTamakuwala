@@ -14,8 +14,8 @@
 
 ```javascript
 var Kashyap = {
-  code: [Python, Java, C, C#, HTML, CSS, Javascript],
-  tools: [Git, Azure],
+  code: [Python, Java, C, C#, HTML, CSS, Javascript,Pandas, Tensorflow, Torch, Numpy],
+  tools: [Git, Azure, Jupyter Notebook, Google Colab, VsCode],
   frameworks: [Django, Angular, .Net],
   techCommunities: {
                         core-team-member: "Computer Society of India student branch ddu"
