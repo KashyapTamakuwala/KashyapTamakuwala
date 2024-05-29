@@ -7,7 +7,6 @@
 
 [![Linkedin: KashyapTamakuwala](https://img.shields.io/badge/-KashyapTamakuwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/kashyap-tamakuwala-075a62168/)
 [![GitHub KashyapTamakuwala](https://img.shields.io/github/followers/KashyapTamakuwala?label=follow&style=social)](https://github.com/KashyapTamakuwala/)
-[![Instagram @kt___1999](https://img.shields.io/badge/@kt___1999-833AB4?style=flat&logo=instagram)](https://www.instagram.com/kt___1999/)
 
 
 ###  A little more about me...  
